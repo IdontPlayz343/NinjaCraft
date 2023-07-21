@@ -1,0 +1,43 @@
+{
+	"schema_version": 1,
+	"quilt_loader": {
+		"group": "io.github.idontplayz343.ninjacraft",
+		"id": "ninjacraft",
+		"version": "${version}",
+		"metadata": {
+			"name": "NinjaCraft",
+			"description": "Move swiftly and sneakily, or master your element, in this mod that lets you be a ninja!",
+			"contributors": {
+				"Your name here": "Owner"
+			},
+			"contact": {
+				"homepage": "https://github.com/IdontPlayz343/NinjaCraft",
+				"issues": "https://github.com/IdontPlayz343/NinjaCraft/issues",
+				"sources": "https://github.com/IdontPlayz343/NinjaCraft"
+			},
+			"icon": "assets/ninjacraft/icon.png"
+		},
+		"intermediate_mappings": "net.fabricmc:intermediary",
+		"entrypoints": {
+			"init": "io.github.idontplayz343.ninjacraft.NinjaCraft"
+		},
+		"depends": [
+			{
+				"id": "quilt_loader",
+				"versions": ">=0.19.2"
+			},
+			{
+				"id": "quilted_fabric_api",
+				"versions": ">=7.0.5+0.84.0-1.20.1"
+			},
+			{
+				"id": "geckolib",
+				"versions": ">=4.2"
+			},
+			{
+				"id": "minecraft",
+				"versions": ">=1.20.1"
+			}
+		]
+	}
+}

@@ -1,0 +1,18 @@
+{
+  "itemgroup.ninjagear": "Ninja Gear",
+  "itemgroup.elemental": "Elemental Powers",
+
+  "item.ninjacraft.iron_katana": "Iron Katana",
+  "item.ninjacraft.golden_katana": "Golden Katana",
+  "item.ninjacraft.diamond_katana": "Diamond Katana",
+  "item.ninjacraft.netherite_katana": "Netherite Katana",
+  "item.ninjacraft.sword_of_fire": "Sword Of Fire",
+  "item.ninjacraft.gem_of_fire": "Gem Of Fire",
+  "item.ninjacraft.sword_of_fire.tooltip": "A legendary sword which can shoot fireballs",
+  "item.ninjacraft.gi_mask": "Gi Mask",
+  "item.ninjacraft.gi_tunic": "Gi Tunic",
+  "item.ninjacraft.gi_leggings": "Gi Leggings",
+  "item.ninjacraft.gi_shoes": "Gi Shoes",
+
+  "block.ninjacraft.elemental_ore": "Elemental Ore"
+}
